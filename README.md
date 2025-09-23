@@ -1,3 +1,10 @@
+# Archived 3rd-Party Fork
+This repository is an archived copy of a 3rd-party open-source project that Progress Chef contributed to.
+
+It was archived as part of the [Repository Standardization Initiative](https://github.com/chef-boneyard/oss-repo-standardization-2025).
+
+No further contributions are anticipated to be made.
+
 # Argo CD ApplicationSet Controller 
 
 The ApplicationSet controller is a Kubernetes controller that adds support for a new custom `ApplicationSet` CustomResourceDefinition (CRD). This controller/CRD enables both automation and greater flexibility when managing Argo CD Applications across a large number of clusters and within monorepos, plus it makes self-service usage possible on multitenant Kubernetes clusters.
